@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s saniye</item>
+        <item quantity="one">%s sn</item>
+        <item quantity="few">%s saniye</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%2$s için %1$s sonuç</item>
+        <item quantity="one">%1$s için %2$s sonuç</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d görüşme</item>
+        <item quantity="one">%d görüşme</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s ve %2$d fazla</item>
+        <item quantity="one">%s ve 1 fazla</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Ekler SD karta kopyaladı</item>
+        <item quantity="one">Ek SD karta kopyalandı</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Ekler SD karta kopyalanamadı</item>
+        <item quantity="one">Ek SD karta kopyalanamadı</item>
+    </plurals>
+</resources>

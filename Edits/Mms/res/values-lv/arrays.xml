@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Laimīgs</item>
+        <item>Bēdīgs</item>
+        <item>Acu mirkšķināšana</item>
+        <item>Izbāzta mēle</item>
+        <item>Pārsteigts</item>
+        <item>Skūpstīšanās</item>
+        <item>Kliegšana</item>
+        <item>Foršs</item>
+        <item>Naudas mute</item>
+        <item>Pēda mutē</item>
+        <item>Apskauts</item>
+        <item>Eņģelis</item>
+        <item>Neizlēmīgs</item>
+        <item>Raudāšana</item>
+        <item>Klusēšu</item>
+        <item>Smiešanās</item>
+        <item>Apmulsis</item>
+        <item>Sirds</item>
+        <item>Nikns</item>
+        <item>Smīns</item>
+        <item>Vienaldzīgs</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunde</item>
+        <item>2 sekundes</item>
+        <item>3 sekundes</item>
+        <item>4 sekundes</item>
+        <item>5 sekundes</item>
+        <item>6 sekundes</item>
+        <item>7 sekundes</item>
+        <item>8 sekundes</item>
+        <item>9 sekundes</item>
+        <item>10 sekundes</item>
+        <item>Cits...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Izm. ierīces fontu liel.</item>
+        <item>Ļoti liels</item>
+        <item>Liels</item>
+        <item>Parasts</item>
+        <item>Mazs</item>
+        <item>Sīks</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Visi kanāli</item>
+        <item>Mans kanāls</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>GSM alfabēts</item>
+        <item>Unikods</item>
+        <item>Automātiski</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Aizliegts</item>
+        <item>Brīdinājums</item>
+        <item>Brīvs</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Vienmēr</item>
+        <item>Pārvaicāt</item>
+        <item>Nekad</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Zils</item>
+        <item>Brūns</item>
+        <item>Mūžzaļs</item>
+        <item>Mono</item>
+        <item>Jautrie baloni</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Melns</item>
+        <item>Balts</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Vienmēr</item>
+        <item>Tikai klusuma režīmā</item>
+        <item>Nekad</item>
+    </string-array>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/animation_frame" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/topLayout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ViewStub android:id="@id/contact_header" android:visibility="gone" android:layout="@layout/message_contact_header" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <LinearLayout android:gravity="center_vertical" android:id="@id/message_select_all" android:background="@drawable/select_all_background" android:focusable="true" android:visibility="gone" android:nextFocusUp="@id/message_select_all" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textAppearance="?android:textAppearanceLarge" android:id="@id/message_text_select_all" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="13.0dip" android:text="@string/select_all" android:layout_weight="1.0" />
+            <CheckBox android:id="@id/message_select_all_chButton" android:focusable="false" android:clickable="false" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" />
+        </LinearLayout>
+        <RelativeLayout android:id="@id/appbody" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <ScrollView android:id="@id/composer" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fillViewport="true" android:layout_alignParentTop="true" android:layout_alignParentBottom="true">
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:orientation="vertical" android:id="@id/recipients_subject_linear" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <LinearLayout android:orientation="vertical" android:id="@id/recipients_field" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                            <ViewStub android:id="@id/to_button_layout_stub" android:visibility="gone" android:layout="@layout/to_button_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                                <com.android.mms.ui.RecipientsEditor android:textSize="18.659973sp" android:id="@id/recipients_editor_to" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="3.2999878dip" android:layout_marginTop="5.299988dip" android:hint="@string/add_recipient_hint" android:layout_weight="1.0" android:inputType="textFilter" android:privateImeOptions="inputType=mmsRecipient" />
+                                <ImageButton android:id="@id/add_recipient_button" android:paddingTop="7.0dip" android:layout_width="62.0dip" android:layout_height="48.0dip" android:layout_marginTop="5.299988dip" android:layout_marginRight="1.3299866dip" android:src="@drawable/msg_icon_selector" android:contentDescription="@string/phone_book_button_description" />
+                            </LinearLayout>
+                        </LinearLayout>
+                        <LinearLayout android:background="@color/separator1_upper" android:layout_width="fill_parent" android:layout_height="0.70000005dip" />
+                        <LinearLayout android:background="@color/separator1_lower" android:layout_width="fill_parent" android:layout_height="0.70000005dip" />
+                    </LinearLayout>
+                    <EditText android:textSize="18.659973sp" android:id="@id/subject" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="3.2999878dip" android:layout_marginTop="5.299988dip" android:layout_marginRight="3.2999878dip" android:hint="@string/subject_hint" android:singleLine="true" android:maxLength="40" android:capitalize="sentences" android:autoText="true" />
+                    <LinearLayout android:orientation="vertical" android:id="@id/attachment_list_view" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <ListView android:id="@id/attchment_list" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:stackFromBottom="true" android:divider="#00000000" android:dividerHeight="0.6600001dip" />
+                    </LinearLayout>
+                    <RelativeLayout android:id="@id/bottom_panel" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                        <LinearLayout android:gravity="right" android:orientation="vertical" android:id="@id/sendbuttons" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.3299866dip" android:layout_marginRight="1.3299866dip" android:layout_alignParentRight="true" android:layout_alignParentBottom="true">
+                            <TextView android:textSize="12.0sp" android:textColor="#ffc9c9c9" android:gravity="right" android:id="@id/message_size" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="3.0dip" />
+                            <Button android:textSize="16.0sp" android:id="@id/send_button" android:layout_width="62.0dip" android:layout_height="48.0dip" android:text="@string/send" />
+                            <ImageButton android:layout_gravity="center_vertical" android:id="@id/attach_button" android:paddingTop="7.0dip" android:layout_width="62.0dip" android:layout_height="48.0dip" android:src="@drawable/msg_attach_icon_selector" android:contentDescription="@string/attach_button_description" />
+                        </LinearLayout>
+                        <com.android.mms.ui.MmsRichContainer android:orientation="vertical" android:id="@id/mms_rich_composer_container" android:addStatesFromChildren="true" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="3.2999878dip" android:layout_marginTop="5.299988dip" android:layout_toLeftOf="@id/sendbuttons" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </ScrollView>
+            <com.android.mms.ui.MessageListView android:scrollbarAlwaysDrawVerticalTrack="true" android:scrollbarStyle="insideOverlay" android:id="@id/history" android:fadingEdge="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:listSelector="@android:color/transparent" android:drawSelectorOnTop="true" android:stackFromBottom="false" android:transcriptMode="alwaysScroll" android:cacheColorHint="@android:color/transparent" android:divider="@android:drawable/divider_horizontal_bright" android:layout_above="@id/composer" android:layout_alignParentTop="true" android:layout_alignWithParentIfMissing="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <EditText android:textSize="85.0dip" android:textColor="@drawable/text_color_black" android:layout_gravity="bottom" android:id="@id/sending_animation_bubble" android:background="@drawable/message_bubble_animation" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.5dip" android:layout_marginRight="65.0dip" android:layout_marginBottom="5.0dip" />
+</FrameLayout>

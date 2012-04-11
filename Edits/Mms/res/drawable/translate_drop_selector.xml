@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:drawable="@drawable/translate_drop_f" android:color="@touchwiz:color/tw_color029" />
+    <item android:state_focused="true" android:drawable="@drawable/translate_drop_f" android:color="@touchwiz:color/tw_color029" />
+    <item android:state_selected="false" android:state_pressed="true" android:drawable="@drawable/translate_drop_p" android:color="@touchwiz:color/tw_color029" />
+    <item android:state_enabled="true" android:drawable="@drawable/translate_drop_n" android:color="@touchwiz:color/tw_color001" />
+</selector>

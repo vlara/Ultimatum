@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Щасливий</item>
+        <item>Сумний</item>
+        <item>Підморгувати</item>
+        <item>Висунутий язик</item>
+        <item>Здивований</item>
+        <item>Цілую</item>
+        <item>Пронизливий крик</item>
+        <item>Крутий</item>
+        <item>Розповім за гроші</item>
+        <item>Німий, як могила</item>
+        <item>Зніяковілий</item>
+        <item>Ангел</item>
+        <item>Нерішучий</item>
+        <item>Плакати</item>
+        <item>Запечатані вуста</item>
+        <item>Сміятися</item>
+        <item>Збентежений</item>
+        <item>Серце</item>
+        <item>Божевільний</item>
+        <item>Самовдоволена посмішка</item>
+        <item>Байдуже обличчя</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунди</item>
+        <item>3 секунди</item>
+        <item>4 секунди</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Інше...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Викор. розм. шриф. прист.</item>
+        <item>Дуже великий</item>
+        <item>Великий</item>
+        <item>Звичайний</item>
+        <item>Маленький</item>
+        <item>Дуже маленький</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Всі канали</item>
+        <item>Мій канал</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>GSM-алфавіт</item>
+        <item>Юнікод</item>
+        <item>Автоматично</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Обмежено</item>
+        <item>Попередження</item>
+        <item>Вільно</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Завжди</item>
+        <item>Підказка</item>
+        <item>Ніколи</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Синій</item>
+        <item>Коричневий</item>
+        <item>Природний зелений</item>
+        <item>Моно</item>
+        <item>Веселе спілкування</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Чорний</item>
+        <item>Білий</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Завжди</item>
+        <item>Лише в реж. без зв.</item>
+        <item>Ніколи</item>
+    </string-array>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s segundos</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s segundos</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s resultados para %2$s</item>
+        <item quantity="one">%1$s resultado para %2$s</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d conversaciones</item>
+        <item quantity="one">%d conversación</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s y %2$d más</item>
+        <item quantity="one">%1$s y 1 más</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Archivos adjuntos copiados en la tarjeta SD</item>
+        <item quantity="one">Archivo adjunto copiado a la tarjeta SD</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Error al copiar archivos adjuntos en la tarjeta SD</item>
+        <item quantity="one">Error al copiar archivo adjunto en la tarjeta SD</item>
+    </plurals>
+</resources>

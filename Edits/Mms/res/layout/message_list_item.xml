@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.mms.ui.MessageListItem android:orientation="horizontal" android:id="@id/msg_list_item" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <LinearLayout android:id="@id/msg_list_item_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_toLeftOf="@id/chButton">
+            <Button android:layout_gravity="center" android:id="@id/failed_icon" android:background="@drawable/listitem_failed" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <LinearLayout android:orientation="vertical" android:id="@id/bubble_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <ViewStub android:id="@id/mms_layout_view_stub" android:layout="@layout/mms_layout_view" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="16.0sp" android:autoLink="all" android:linksClickable="false" android:id="@id/text_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxWidth="233.32999dip" />
+                <ViewStub android:id="@id/mms_downloading_view_stub" android:layout="@layout/mms_downloading_view" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                <LinearLayout android:gravity="right|center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <ImageView android:id="@id/msg_list_item_attach" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="1.0dip" android:src="@drawable/msg_bubble_attach_icon" />
+                    <ImageView android:id="@id/msg_list_item_lock" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="4.0dip" android:src="@drawable/msg_bubble_icon_locked" />
+                    <TextView android:textSize="13.0sp" android:id="@id/msg_list_item_date" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+    <CheckBox android:layout_gravity="center" android:id="@id/chButton" android:focusable="false" android:visibility="gone" android:clickable="false" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" />
+</com.android.mms.ui.MessageListItem>

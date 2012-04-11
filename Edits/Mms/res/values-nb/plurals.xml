@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sekunder</item>
+        <item quantity="one">%s sec</item>
+        <item quantity="few">%s secs</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s resultater for %2$s</item>
+        <item quantity="one">%1$s resultat for %2$s</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d samtaler</item>
+        <item quantity="one">%d samtale</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s og %2$d mer</item>
+        <item quantity="one">%s og 1 til</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Vedlegg kopiert til SD-kortet</item>
+        <item quantity="one">Vedlegg kopiert til SD-kort</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Kunne ikke kopiere vedlegg til SD-kortet</item>
+        <item quantity="one">Kunne ikke kopiere vedlegg til SD-kortet</item>
+    </plurals>
+</resources>

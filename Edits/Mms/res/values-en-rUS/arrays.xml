@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Winking</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Yelling</item>
+        <item>Cool</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Angel</item>
+        <item>Undecided</item>
+        <item>Crying</item>
+        <item>Lips are sealed</item>
+        <item>Laughing</item>
+        <item>Confused</item>
+        <item>Heart</item>
+        <item>Mad</item>
+        <item>Smirk</item>
+        <item>Poker face</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 second</item>
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+        <item>5 seconds</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 seconds</item>
+        <item>9 seconds</item>
+        <item>10 seconds</item>
+        <item>Other...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Use device font sizes</item>
+        <item>Huge</item>
+        <item>Large</item>
+        <item>Normal</item>
+        <item>Small</item>
+        <item>Tiny</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>All channels</item>
+        <item>My Channel</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>GSM alphabet</item>
+        <item>Unicode</item>
+        <item>Automatic</item>
+    </string-array>
+    <string-array name="pref_entries_sms_expiry_date">
+        <item>0 day</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>3 days</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Restricted</item>
+        <item>Warning</item>
+        <item>Free</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Always</item>
+        <item>Prompt</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Blue</item>
+        <item>Brown</item>
+        <item>Evergreen</item>
+        <item>Mono</item>
+        <item>Joypop</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Black</item>
+        <item>White</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Always</item>
+        <item>Only in silent mode</item>
+        <item>Never</item>
+    </string-array>
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Улыбка</item>
+        <item>Печаль</item>
+        <item>Подмигивание</item>
+        <item>Показать язык</item>
+        <item>Удивление</item>
+        <item>Поцелуй</item>
+        <item>Крик</item>
+        <item>Здорово</item>
+        <item>Деньги</item>
+        <item>Мне неловко</item>
+        <item>Растерянный</item>
+        <item>Ангел</item>
+        <item>Сомнение</item>
+        <item>Плач</item>
+        <item>Ничего не скажу</item>
+        <item>Смех</item>
+        <item>Озадаченный</item>
+        <item>Сердце</item>
+        <item>Безумный</item>
+        <item>Ухмылка</item>
+        <item>Невозмутимый</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Другое...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Системный размер</item>
+        <item>Огромный</item>
+        <item>Крупный</item>
+        <item>Обычный</item>
+        <item>Небольшой</item>
+        <item>Мелкий</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Все каналы</item>
+        <item>Мой канал</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>GSM-алфавит</item>
+        <item>Юникод</item>
+        <item>Автоматически</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Ограниченный</item>
+        <item>Предупреждение</item>
+        <item>Без ограничений</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Всегда</item>
+        <item>Спрашивать</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Синий</item>
+        <item>Коричневый</item>
+        <item>Зеленый</item>
+        <item>Моно</item>
+        <item>Радостный</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Черный</item>
+        <item>Белый</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только в \"Без звука\"</item>
+        <item>Никогда</item>
+    </string-array>
+</resources>

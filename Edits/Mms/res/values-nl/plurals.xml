@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s seconden</item>
+        <item quantity="one">%s sec</item>
+        <item quantity="few">%s seconden</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s resultaten voor %2$s</item>
+        <item quantity="one">%1$s resultaat voor %2$s</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d gesprekken</item>
+        <item quantity="one">%d gesprek</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s en nog %2$d</item>
+        <item quantity="one">%s en nog 1</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Bijlagen gekopieerd naar SD-kaart</item>
+        <item quantity="one">Bijlage gekopieerd naar SD-kaart</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Kan bijlagen niet kopiëren naar SD-kaart</item>
+        <item quantity="one">Kan bijlage niet kopiëren naar SD-kaart</item>
+    </plurals>
+</resources>

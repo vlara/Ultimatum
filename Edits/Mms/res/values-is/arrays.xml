@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Gleði</item>
+        <item>Dapur</item>
+        <item>Vinka</item>
+        <item>Út með tunguna</item>
+        <item>Hissa</item>
+        <item>Kyssa</item>
+        <item>Öskur</item>
+        <item>Töff</item>
+        <item>Auraapi</item>
+        <item>Klaufmæli</item>
+        <item>Fer hjá sér</item>
+        <item>Engill</item>
+        <item>Óviss</item>
+        <item>Grætur</item>
+        <item>Segi ekki orð</item>
+        <item>Hlægjandi</item>
+        <item>Ruglaður</item>
+        <item>Hjarta</item>
+        <item>Reið(ur)</item>
+        <item>Glott</item>
+        <item>Pókerfés</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekúnda</item>
+        <item>2 sekúndur</item>
+        <item>3 sekúndur</item>
+        <item>4 sekúndur</item>
+        <item>5 sekúndur</item>
+        <item>6 sekúndur</item>
+        <item>7 sekúndur</item>
+        <item>8 sekúndur</item>
+        <item>9 sekúndur</item>
+        <item>10 sekúndur</item>
+        <item>Annað...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Nota leturstærð tækis</item>
+        <item>Mjög stórt</item>
+        <item>Stórt</item>
+        <item>Venjulegt</item>
+        <item>Lítið</item>
+        <item>Afar lítið</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Allar stöðvar</item>
+        <item>Stöðin mín</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>GSM stafróf</item>
+        <item>Unicode</item>
+        <item>Sjálfvirkt</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Takmarkað</item>
+        <item>Viðvörun</item>
+        <item>Laust</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Alltaf</item>
+        <item>Beiðni</item>
+        <item>Aldrei</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Blátt</item>
+        <item>Brown</item>
+        <item>Evergreen</item>
+        <item>Mónó</item>
+        <item>Joypop</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Svart</item>
+        <item>Hvítt</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Alltaf</item>
+        <item>Bara í hljóðlausu</item>
+        <item>Aldrei</item>
+    </string-array>
+</resources>

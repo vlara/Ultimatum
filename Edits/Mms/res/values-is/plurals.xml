@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sekúndur</item>
+        <item quantity="one">%s sek</item>
+        <item quantity="few">%s sekúndur</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s niðurst. fyrir %2$s</item>
+        <item quantity="one">%1$s niðurstaða fyrir %2$s</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d samtöl</item>
+        <item quantity="one">%d samtal</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">>%1$s og %2$d í viðbót</item>
+        <item quantity="one">%s og 1 í viðbót</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Viðhengi voru afrituð á SD-kort</item>
+        <item quantity="one">Viðhengi var afritað á SD-kort</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Mistókst að afrita viðhengi á SD-kort</item>
+        <item quantity="one">Mistókst að afrita viðhengi á SD-kort</item>
+    </plurals>
+</resources>

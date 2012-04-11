@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sekundi</item>
+        <item quantity="one">%s sek</item>
+        <item quantity="few">%s sekundi</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s rezultata za %2$s</item>
+        <item quantity="one">%1$s rezultat za %2$s</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d razgovora</item>
+        <item quantity="one">%d razgovor</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s i još %2$d</item>
+        <item quantity="one">%s i još 1 više</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Privitci kopirani na SD karticu</item>
+        <item quantity="one">Privitak kopiran na SD karticu</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Neuspješno kopiranje privitaka na SD karticu</item>
+        <item quantity="one">Neuspješno kopiranje privitka na SD karticu</item>
+    </plurals>
+</resources>

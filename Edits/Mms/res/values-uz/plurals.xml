@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s secs</item>
+        <item quantity="one">%s soniya</item>
+        <item quantity="few">%s secs</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%2$s uchun %1$s natija</item>
+        <item quantity="one">%s uchun 1 natija</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d suhbat</item>
+        <item quantity="one">1 suhbat</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s va qo‘shimcha %2$d</item>
+        <item quantity="one">Qo‘shimcha %s va 1</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Biriktirmalardan SD-kartaga nusxa ko‘chirildi</item>
+        <item quantity="one">Biriktirmadan SD-kartaga nusxa olindi</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Biriktirmalardan SD-kartaga nusxa olib bo‘lmadi</item>
+        <item quantity="one">Biriktirmadan SD-kartaga nusxa ko‘chirib bo‘lmadi</item>
+    </plurals>
+</resources>

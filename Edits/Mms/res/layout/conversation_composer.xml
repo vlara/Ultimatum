@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/conversation_composer_left_screen" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/conversationlist_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/conversation_composer_right_screen" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/composer_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <TextView android:textSize="24.0sp" android:textColor="@touchwiz:color/tw_color145" android:ellipsize="marquee" android:gravity="center_vertical" android:layout_gravity="center" android:id="@id/empty_screen" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/no_selected_item" android:singleLine="true" android:drawableTop="@drawable/noitems_no_conversation" />
+    </FrameLayout>
+    <ImageButton android:id="@id/splitbar" android:background="@drawable/email_split" android:layout_width="28.0dip" android:layout_height="fill_parent" />
+</LinearLayout>

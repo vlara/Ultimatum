@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Щастлив</item>
+        <item>Тъжен</item>
+        <item>Намигане</item>
+        <item>Изплезен език</item>
+        <item>Учуден</item>
+        <item>Целуване</item>
+        <item>Викане</item>
+        <item>Добре</item>
+        <item>Златна уста</item>
+        <item>С крак в устата</item>
+        <item>Смутен</item>
+        <item>Ангел</item>
+        <item>Нерешено</item>
+        <item>Плач</item>
+        <item>Залепени устни</item>
+        <item>Смях</item>
+        <item>Объркан</item>
+        <item>Сърце</item>
+        <item>Див</item>
+        <item>Самодоволен</item>
+        <item>Прикрит</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунди</item>
+        <item>3 секунди</item>
+        <item>4 секунди</item>
+        <item>5 секунди</item>
+        <item>6 секунди</item>
+        <item>7 секунди</item>
+        <item>8 секунди</item>
+        <item>9 секунди</item>
+        <item>10 секунди</item>
+        <item>Друго...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Изп. р-ри шрифт на устр.</item>
+        <item>Много голям</item>
+        <item>Голям</item>
+        <item>Нормален</item>
+        <item>Малък</item>
+        <item>Много малък</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Всички канали</item>
+        <item>Мой канал</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>GSM азбука</item>
+        <item>Unicode</item>
+        <item>Автоматично</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Ограничен</item>
+        <item>Предупреждение</item>
+        <item>Свободен</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Винаги</item>
+        <item>Напомняне</item>
+        <item>Никога</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Синьо</item>
+        <item>Кафяво</item>
+        <item>Вечно зелено</item>
+        <item>Моно</item>
+        <item>Скок-подскок</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Черно</item>
+        <item>Бял</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Винаги</item>
+        <item>Само в Безшум. режим</item>
+        <item>Никога</item>
+    </string-array>
+</resources>

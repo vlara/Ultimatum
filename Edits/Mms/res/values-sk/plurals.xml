@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">Počet sekúnd: %s</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">Počet sekúnd: %s</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Výsl. hľadania %2$s: %1$s</item>
+        <item quantity="one">%1$s výsledok pre %2$s</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">Konverzácie: %d</item>
+        <item quantity="one">%d konverzácia</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s a %2$d ďalšie</item>
+        <item quantity="one">%s a 1 ďalšie</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Prílohy boli skopírované na kartu SD</item>
+        <item quantity="one">Príloha skopírovaná na kartu SD</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Nepodarilo sa skopírovať prílohy na kartu SD</item>
+        <item quantity="one">Nepodarilo sa skopírovať prílohu na kartu SD</item>
+    </plurals>
+</resources>

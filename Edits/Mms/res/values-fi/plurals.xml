@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sekuntia</item>
+        <item quantity="one">%s sek</item>
+        <item quantity="few">%s sekuntia</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s tulosta hakus. %2$s</item>
+        <item quantity="one">%1$s tulos hakusanalla %2$s</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d keskustelua</item>
+        <item quantity="one">%d keskustelu</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s ja %2$d enemmän</item>
+        <item quantity="one">%s ja 1 enemmän</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Liitteet kopioitu SD-kortille</item>
+        <item quantity="one">Liite kopioitu SD-kortille</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Liitteiden kopiointi SD-kortille epäonnistui</item>
+        <item quantity="one">Liitteen kopiointi SD-kortille epäonnistui</item>
+    </plurals>
+</resources>

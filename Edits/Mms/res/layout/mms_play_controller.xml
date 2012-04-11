@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/slideshow_bg" android:layout_width="fill_parent" android:layout_height="78.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingTop="5.3299866dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageButton android:id="@id/prev" android:layout_width="50.659973dip" android:layout_height="41.329987dip" android:layout_marginRight="20.659973dip" android:src="@drawable/msg_slideshow_rew_button_selector" android:contentDescription="@string/previous" />
+        <ImageButton android:id="@id/pause" android:layout_width="50.659973dip" android:layout_height="41.329987dip" android:layout_marginRight="20.659973dip" android:src="@drawable/msg_slideshow_pause_button_selector" android:contentDescription="@string/pause" />
+        <ImageButton android:id="@id/next" android:layout_width="50.659973dip" android:layout_height="41.329987dip" android:src="@drawable/msg_slideshow_ff_button_selector" android:contentDescription="@string/next" />
+    </LinearLayout>
+    <ProgressBar android:id="@id/mediacontroller_progress" android:paddingLeft="18.659973dip" android:paddingTop="2.6599731dip" android:paddingRight="18.659973dip" android:layout_width="fill_parent" android:layout_height="9.329987dip" android:progressDrawable="@drawable/customized_progressbar" style="?android:attr/progressBarStyleHorizontal" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="14.0sp" android:id="@id/time_current" android:paddingLeft="20.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textSize="14.0sp" android:id="@id/time" android:paddingRight="20.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s сек</item>
+        <item quantity="one">%s сек</item>
+        <item quantity="few">%s сек</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s результ. для \"%2$s\"</item>
+        <item quantity="one">%1$s результат для %2$s</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">Бесед: %d</item>
+        <item quantity="one">%d беседа</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s и еще %2$d</item>
+        <item quantity="one">%s и еще 1</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Вложения скопированы на карту памяти SD</item>
+        <item quantity="one">Вложение скопировано на карту памяти</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Не удалось скопировать вложения на карту памяти SD</item>
+        <item quantity="one">Не удалось скопировать вложение на карту памяти SD</item>
+    </plurals>
+</resources>

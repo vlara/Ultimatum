@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s секунд</item>
+        <item quantity="one">%s сек</item>
+        <item quantity="few">%s секунд</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%2$s арналған %1$s нәтиже</item>
+        <item quantity="one">%1$s үшін %2$s нәтиже</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d әңгімелесу</item>
+        <item quantity="one">%d әңгімелесу</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s және тағы %2$d</item>
+        <item quantity="one">%s және тағы 1</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Тіркемелер SD картасына көшірілді</item>
+        <item quantity="one">Тіркеме SD картасына көшірілді</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Тіркемелер SD картасына көшірілмеді</item>
+        <item quantity="one">Тіркеме SD картасына көшірілмеді</item>
+    </plurals>
+</resources>

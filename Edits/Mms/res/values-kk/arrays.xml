@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Бақытты</item>
+        <item>Көңілсіз</item>
+        <item>Көз қысу</item>
+        <item>Тілі шығып тұр</item>
+        <item>Таңданған</item>
+        <item>Сүю</item>
+        <item>Бақыру</item>
+        <item>Тіпті жақсы</item>
+        <item>Ақша ауызды</item>
+        <item>Аяқ ауызды</item>
+        <item>Апалақ-сапалақ</item>
+        <item>Періште</item>
+        <item>Шегіншек</item>
+        <item>Жылау</item>
+        <item>Еріндері тиіп тұр</item>
+        <item>Күлу</item>
+        <item>Ұялған</item>
+        <item>Жүрек</item>
+        <item>Ақылсыз</item>
+        <item>Ақымақ</item>
+        <item>Байсалды түс</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунд</item>
+        <item>2 секунд</item>
+        <item>3 секунд</item>
+        <item>4 секунд</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Басқа...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Құрылғы қарпі өлш. пайд-у</item>
+        <item>Ірі</item>
+        <item>Үлкен</item>
+        <item>Қалыпты</item>
+        <item>Кіші</item>
+        <item>Ұсақ</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Барлық арна</item>
+        <item>Менің арнам</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>GSM алфавиті</item>
+        <item>Юникод</item>
+        <item>Автоматты түрде</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Шектелген</item>
+        <item>Ескерту</item>
+        <item>тегін</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Әрқашан</item>
+        <item>Сұрау</item>
+        <item>Ешқашан</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Көк</item>
+        <item>Қоңыр</item>
+        <item>Мәңгі жасыл</item>
+        <item>Mоно</item>
+        <item>Есірткі қолдану</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Қара</item>
+        <item>Ақ</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Әрқашан</item>
+        <item>Тек дыбыссыз режимде</item>
+        <item>Ешқашан</item>
+    </string-array>
+</resources>

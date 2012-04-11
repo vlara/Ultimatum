@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Sretan</item>
+        <item>Tužan</item>
+        <item>Namigivanje</item>
+        <item>Beljko</item>
+        <item>Iznenađen</item>
+        <item>Poljubac</item>
+        <item>Vikanje</item>
+        <item>Dobro</item>
+        <item>Lova</item>
+        <item>Bezobrazan</item>
+        <item>Neugodno je</item>
+        <item>Anđeo</item>
+        <item>Neodlučan</item>
+        <item>Plačko</item>
+        <item>Šutim</item>
+        <item>Nasmijan</item>
+        <item>Zbunjen</item>
+        <item>Srce</item>
+        <item>Ljut</item>
+        <item>zlobni smješak</item>
+        <item>Ravnodušan</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sek</item>
+        <item>2 sek</item>
+        <item>3 sek</item>
+        <item>4 sek</item>
+        <item>5 sek</item>
+        <item>6 sek</item>
+        <item>7 sek</item>
+        <item>8 sek</item>
+        <item>9 sek</item>
+        <item>10 sek</item>
+        <item>Ostalo...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Koristi sistemsku veličinu fonta</item>
+        <item>Jako veliko</item>
+        <item>Veliko</item>
+        <item>Normalno</item>
+        <item>Malo</item>
+        <item>Sitno</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Sve postaje</item>
+        <item>Moj kanal</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>GSM abeceda</item>
+        <item>Unicode</item>
+        <item>Automatski</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Ograničeno</item>
+        <item>Upozorenje</item>
+        <item>Slobodno</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Uvijek</item>
+        <item>Pitaj</item>
+        <item>Nikad</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Plava</item>
+        <item>Smeđe</item>
+        <item>Evergreen</item>
+        <item>Mono</item>
+        <item>Joypop</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Crna</item>
+        <item>Bijela</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Uvijek</item>
+        <item>Samo u Bešum. načinu</item>
+        <item>Nikad</item>
+    </string-array>
+</resources>

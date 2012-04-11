@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Baxtli</item>
+        <item>Xomush</item>
+        <item>Miltillash</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Yelling</item>
+        <item>Qoyilmaqom</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Farishta</item>
+        <item>Undecided</item>
+        <item>Yig‘lamoqda</item>
+        <item>Lips are sealed</item>
+        <item>Kulish</item>
+        <item>Hijolat bo‘lgan</item>
+        <item>Yurak</item>
+        <item>Istehzoli kulgu</item>
+        <item>Soxta tirjayish</item>
+        <item>"Ma'nosiz yuz"</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Qurilma shrift o‘l. foyd.</item>
+        <item>Ulkan</item>
+        <item>Katta</item>
+        <item>Normal</item>
+        <item>Kichik</item>
+        <item>Mitti</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Barcha kanallar</item>
+        <item>Mening kanalim</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>GSM alifbo</item>
+        <item>Yunikod</item>
+        <item>Avtomatik</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Cheklangan</item>
+        <item>Ogohlantirish</item>
+        <item>Bo‘sh</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Har doim</item>
+        <item>Maslahat</item>
+        <item>Hech qachon</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Qora</item>
+        <item>Oq</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Har doim</item>
+        <item>Faqat Ovozsiz rejim</item>
+        <item>Hech qachon</item>
+    </string-array>
+</resources>

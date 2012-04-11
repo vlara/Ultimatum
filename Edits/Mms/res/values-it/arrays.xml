@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Felice</item>
+        <item>Triste</item>
+        <item>Occhiolino</item>
+        <item>Linguaccia</item>
+        <item>Sorpreso</item>
+        <item>Dare un bacio</item>
+        <item>Strillare</item>
+        <item>Cool</item>
+        <item>Soldi! Soldi!</item>
+        <item>Fare una gaffe</item>
+        <item>Imbarazzato</item>
+        <item>Angelo</item>
+        <item>Incerto</item>
+        <item>Piangente</item>
+        <item>Labbra sigillate</item>
+        <item>Ridente</item>
+        <item>Perplesso</item>
+        <item>Cuore</item>
+        <item>Pazzo</item>
+        <item>Risatina</item>
+        <item>Impassibile</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 secondo</item>
+        <item>2 secondi</item>
+        <item>3 secondi</item>
+        <item>4 secondi</item>
+        <item>5 secondi</item>
+        <item>6 secondi</item>
+        <item>7 secondi</item>
+        <item>8 secondi</item>
+        <item>9 secondi</item>
+        <item>10 secondi</item>
+        <item>Altro...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Usa dim. caratt. dispos.</item>
+        <item>Molto grande</item>
+        <item>Grande</item>
+        <item>Normale</item>
+        <item>Piccolo</item>
+        <item>Molto piccolo</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Tutti i canali</item>
+        <item>Canale personale</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>Alfabeto GSM</item>
+        <item>Unicode</item>
+        <item>Automatica</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Con restrizioni</item>
+        <item>Avviso</item>
+        <item>Libero</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Sempre</item>
+        <item>Chiedi</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Blu</item>
+        <item>Marrone</item>
+        <item>Sempreverde</item>
+        <item>Mono</item>
+        <item>Divertente</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Nero</item>
+        <item>Bianco</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Sempre</item>
+        <item>Solo in mod. silenz.</item>
+        <item>Mai</item>
+    </string-array>
+</resources>

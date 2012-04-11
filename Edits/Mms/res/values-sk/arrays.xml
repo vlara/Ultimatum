@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Šťastný</item>
+        <item>Smutný</item>
+        <item>Žmurkanie</item>
+        <item>Vyplazený jazyk</item>
+        <item>Prekvapený</item>
+        <item>Bozkávanie</item>
+        <item>Výkrik</item>
+        <item>Skvelý</item>
+        <item>Držgroš</item>
+        <item>Noha v ústach</item>
+        <item>Rozpaky</item>
+        <item>Anjel</item>
+        <item>Nerozhodnosť</item>
+        <item>Plač</item>
+        <item>Pery sú zavreté</item>
+        <item>Smiech</item>
+        <item>Rozpačitosť</item>
+        <item>Srdce</item>
+        <item>Šialenstvo</item>
+        <item>Úškľabok</item>
+        <item>Kamenná tvár</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunda</item>
+        <item>2 sekundy</item>
+        <item>3 sekundy</item>
+        <item>4 sekundy</item>
+        <item>5 sekúnd</item>
+        <item>6 sekúnd</item>
+        <item>7 sekúnd</item>
+        <item>8 sekúnd</item>
+        <item>9 sekúnd</item>
+        <item>10 sekúnd</item>
+        <item>Ďalšie...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Použiť veľk. písiem zar.</item>
+        <item>Veľmi veľké</item>
+        <item>Veľké</item>
+        <item>Normálne</item>
+        <item>Malé</item>
+        <item>Veľmi malé</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Všetky kanály</item>
+        <item>Môj kanál</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>Abeceda GSM</item>
+        <item>Unicode</item>
+        <item>Automaticky</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Zakázané</item>
+        <item>Varovanie</item>
+        <item>Voľné</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Vždy</item>
+        <item>Vyzvať</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Modrá</item>
+        <item>Hnedá</item>
+        <item>Zeleň</item>
+        <item>Mono</item>
+        <item>Joypop</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Čierna</item>
+        <item>Biela</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Vždy</item>
+        <item>Iba v tichom režime</item>
+        <item>Nikdy</item>
+    </string-array>
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Joyeux</item>
+        <item>Triste</item>
+        <item>"Clin d'oeil"</item>
+        <item>Tirer la langue</item>
+        <item>Surpris</item>
+        <item>"S'embrasser"</item>
+        <item>Hurlement</item>
+        <item>Cool</item>
+        <item>Perspectives d’argent</item>
+        <item>Déçu</item>
+        <item>Embarrassé</item>
+        <item>Ange</item>
+        <item>Indécis</item>
+        <item>Pleurs</item>
+        <item>Bouche cousue</item>
+        <item>Rires</item>
+        <item>Confus</item>
+        <item>Cœur</item>
+        <item>Furieux</item>
+        <item>Sourire en coin</item>
+        <item>Impassible</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 seconde</item>
+        <item>2 secondes</item>
+        <item>3 secondes</item>
+        <item>4 secondes</item>
+        <item>5 secondes</item>
+        <item>6 secondes</item>
+        <item>7 secondes</item>
+        <item>8 secondes</item>
+        <item>9 secondes</item>
+        <item>10 secondes</item>
+        <item>Autre...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Utiliser police appareil</item>
+        <item>Immense</item>
+        <item>Grand</item>
+        <item>Normal</item>
+        <item>Petit</item>
+        <item>Minuscule</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Toutes les stations</item>
+        <item>Mon canal</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>Alphabet GSM</item>
+        <item>Unicode</item>
+        <item>Automatique</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Restreint</item>
+        <item>Avertissement</item>
+        <item>Libre</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Toujours</item>
+        <item>Toujours demander</item>
+        <item>Jamais</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Bleu</item>
+        <item>Marron</item>
+        <item>Evergreen</item>
+        <item>Mono</item>
+        <item>Joypop</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Noir</item>
+        <item>Blanc</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Toujours</item>
+        <item>Profil Discret uniq.</item>
+        <item>Jamais</item>
+    </string-array>
+</resources>

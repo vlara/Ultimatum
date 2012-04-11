@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Šťastný</item>
+        <item>Smutný</item>
+        <item>Mrkající</item>
+        <item>Vypláznutý jazyk</item>
+        <item>Překvapený</item>
+        <item>Líbání</item>
+        <item>Ječící</item>
+        <item>Frajer</item>
+        <item>Peníze v puse</item>
+        <item>Noha v puse</item>
+        <item>V rozpacích</item>
+        <item>Anděl</item>
+        <item>Nerozhodnutý</item>
+        <item>Pláč</item>
+        <item>Pusa na zámek</item>
+        <item>Smějící se</item>
+        <item>Zmatený</item>
+        <item>Srdce</item>
+        <item>Blázen</item>
+        <item>Úšklebek</item>
+        <item>Pokerová tvář</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunda</item>
+        <item>2 sekund</item>
+        <item>3 sekundy</item>
+        <item>4 sekundy</item>
+        <item>5 sekund</item>
+        <item>6 sekund</item>
+        <item>7 sekund</item>
+        <item>8 sekund</item>
+        <item>9 sekund</item>
+        <item>10 sekund</item>
+        <item>Jiná...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Použít vel. písma zaříz.</item>
+        <item>Velmi velké</item>
+        <item>Velké</item>
+        <item>Normální</item>
+        <item>Malé</item>
+        <item>Drobné</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Všechny kanály</item>
+        <item>Můj kanál</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>Abeceda GSM</item>
+        <item>Unicode</item>
+        <item>Automaticky</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Zakázáno</item>
+        <item>Upozornění</item>
+        <item>Volné</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Vždy</item>
+        <item>Výzva</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Modrá</item>
+        <item>Hnědá</item>
+        <item>Evergreen</item>
+        <item>Mono</item>
+        <item>Joypop</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Černá</item>
+        <item>Bílá</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Vždy</item>
+        <item>Pouze v režimu Ticho</item>
+        <item>Nikdy</item>
+    </string-array>
+</resources>

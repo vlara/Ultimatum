@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="bottom|right|center" android:orientation="vertical" android:paddingBottom="8.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/msg_list_item_lock_left" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/msg_bubble_icon_locked" />
+        <TextView android:textSize="13.0sp" android:id="@id/msg_mms_indicator" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="64.0dip" android:text="@string/mms" android:singleLine="true" />
+        <ImageView android:id="@id/msg_list_item_lock_right" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/msg_bubble_icon_locked" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ProgressBar android:id="@id/msg_list_item_progressbar" android:visibility="gone" android:layout_width="12.0dip" android:layout_height="12.0dip" android:layout_marginTop="3.5dip" android:layout_marginRight="3.0dip" style="@android:style/Widget.ProgressBar.Small" />
+        <TextView android:textSize="13.0sp" android:textColor="#ff787878" android:id="@id/msg_list_item_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+    </LinearLayout>
+</LinearLayout>

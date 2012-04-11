@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Fericit</item>
+        <item>Trist</item>
+        <item>Făcut cu ochiul</item>
+        <item>Cu limba scoasă</item>
+        <item>Surprins</item>
+        <item>Sărutând</item>
+        <item>Ţipăt</item>
+        <item>Grozav</item>
+        <item>Banii vorbesc</item>
+        <item>Mi-a scăpat o prostie</item>
+        <item>Jenat</item>
+        <item>Înger</item>
+        <item>Nehotărât</item>
+        <item>Plâns</item>
+        <item>Nu scot o vorbă</item>
+        <item>Râzând</item>
+        <item>Confuz</item>
+        <item>Inimă</item>
+        <item>Nebun</item>
+        <item>Zâmbet afectat</item>
+        <item>Faţă inexpresivă</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 secundă</item>
+        <item>2 secunde</item>
+        <item>3 secunde</item>
+        <item>4 secunde</item>
+        <item>5 secunde</item>
+        <item>6 secunde</item>
+        <item>7 secunde</item>
+        <item>8 secunde</item>
+        <item>9 secunde</item>
+        <item>10 secunde</item>
+        <item>Alta...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Util. dimens. font disp.</item>
+        <item>Foarte mare</item>
+        <item>Mare</item>
+        <item>Normal</item>
+        <item>Mic</item>
+        <item>Foarte mic</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Toate canalele</item>
+        <item>Canalul meu</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>Alfabet GSM</item>
+        <item>Unicode</item>
+        <item>Automat</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Restricţionat</item>
+        <item>Avertisment</item>
+        <item>Liber</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Întotdeauna</item>
+        <item>Confirmare</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Albastru</item>
+        <item>Maro</item>
+        <item>Verde persistent</item>
+        <item>Mono</item>
+        <item>Veselie</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Negru</item>
+        <item>Alb</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Întotdeauna</item>
+        <item>Doar în m. Silenţios</item>
+        <item>Niciodată</item>
+    </string-array>
+</resources>

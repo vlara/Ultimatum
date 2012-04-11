@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s soicind</item>
+        <item quantity="one">%s soic</item>
+        <item quantity="few">%s soicind</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s toradh do %2$s</item>
+        <item quantity="one">%1$s toradh ar %2$s</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d comhrá</item>
+        <item quantity="one">%d chomhrá</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s agus %2$d eile</item>
+        <item quantity="one">%s agus ceann amháin eile</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Cóipeáladh ceangaltáin chuig an gcárta SD</item>
+        <item quantity="one">Ceangaltán cóipeáilte chuig cárta SD</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Theip ar chóipeáil na gceangaltán chuig cárta SD</item>
+        <item quantity="one">Theip ar chóipeáil an cheangaltáin chuig cárta SD</item>
+    </plurals>
+</resources>

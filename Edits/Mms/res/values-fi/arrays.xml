@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Iloinen</item>
+        <item>Surullinen</item>
+        <item>Iskee silmää</item>
+        <item>Kieli ulkona</item>
+        <item>Yllättynyt</item>
+        <item>Suutelee</item>
+        <item>Huutaa kovaa</item>
+        <item>Siisti</item>
+        <item>Rahasuu</item>
+        <item>Puhuu noloja</item>
+        <item>Nolo</item>
+        <item>Enkeli</item>
+        <item>Epävarma</item>
+        <item>Itkee</item>
+        <item>Huuleni ovat sinetöidyt</item>
+        <item>Nauraa</item>
+        <item>Hämmentynyt</item>
+        <item>Sydän</item>
+        <item>Hullu</item>
+        <item>Virne</item>
+        <item>Pokerinaama</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunti</item>
+        <item>2 sekuntia</item>
+        <item>3 sekuntia</item>
+        <item>4 sekuntia</item>
+        <item>5 sekuntia</item>
+        <item>6 sekuntia</item>
+        <item>7 sekuntia</item>
+        <item>8 sekuntia</item>
+        <item>9 sekuntia</item>
+        <item>10 sekuntia</item>
+        <item>Muu...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Käytä laitteen fonttik.</item>
+        <item>Erittäin suuri</item>
+        <item>Suuri</item>
+        <item>Normaali</item>
+        <item>Pieni</item>
+        <item>Erittäin pieni</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Kaikki kanavat</item>
+        <item>Oma kanava</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>GSM-merkistö</item>
+        <item>Unicode-merkistö</item>
+        <item>Automaattinen</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Rajoitettu</item>
+        <item>Varoitus</item>
+        <item>Vapaa</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Aina</item>
+        <item>Kehote</item>
+        <item>Ei koskaan</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Sininen</item>
+        <item>Ruskea</item>
+        <item>Evergreen</item>
+        <item>Mono</item>
+        <item>Joypop</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Musta</item>
+        <item>Valkoinen</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Aina</item>
+        <item>Vain äänett. tilassa</item>
+        <item>Ei koskaan</item>
+    </string-array>
+</resources>

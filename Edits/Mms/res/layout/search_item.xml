@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="?android:listPreferredItemHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@touchwiz:style/TwTextAppearanceListTwoLinePrimary" android:ellipsize="marquee" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="7.0dip" android:layout_marginTop="6.0dip" android:layout_marginRight="5.0dip" android:singleLine="true" android:maxLength="3120" />
+    <view android:textAppearance="@touchwiz:style/TwTextAppearanceListTwoLineSecondary" android:ellipsize="end" android:id="@id/subtitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="7.0dip" android:maxLines="1" android:singleLine="true" class="com.android.mms.ui.SearchActivity$TextViewSnippet" />
+</LinearLayout>

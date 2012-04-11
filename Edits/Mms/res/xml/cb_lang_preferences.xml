@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="pref_key_cb_language"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="@string/select_all" android:key="pref_select_all_key" android:defaultValue="true" />
+    <CheckBoxPreference android:title="@string/pref_english_language_title" android:key="pref_key_english" android:defaultValue="true" />
+    <CheckBoxPreference android:title="@string/pref_german_language_title" android:key="pref_key_german" android:defaultValue="true" />
+    <CheckBoxPreference android:title="@string/pref_italian_language_title" android:key="pref_key_italian" android:defaultValue="true" />
+    <CheckBoxPreference android:title="@string/pref_french_language_title" android:key="pref_key_french" android:defaultValue="true" />
+    <CheckBoxPreference android:title="@string/pref_spanish_language_title" android:key="pref_key_spanish" android:defaultValue="true" />
+    <CheckBoxPreference android:title="@string/pref_dutch_language_title" android:key="pref_key_dutch" android:defaultValue="true" />
+    <CheckBoxPreference android:title="@string/pref_swedish_language_title" android:key="pref_key_swedish" android:defaultValue="true" />
+    <CheckBoxPreference android:title="@string/pref_danish_language_title" android:key="pref_key_danish" android:defaultValue="true" />
+    <CheckBoxPreference android:title="@string/pref_portuguese_language_title" android:key="pref_key_portuguese" android:defaultValue="true" />
+</PreferenceScreen>

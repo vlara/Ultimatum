@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s δευτερόλεπτα</item>
+        <item quantity="one">%s δευτ</item>
+        <item quantity="few">%s δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s αποτελέσμ. για %2$s</item>
+        <item quantity="one">%1$s αποτέλεσμα για %2$s</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d συνομιλίες</item>
+        <item quantity="one">%d συνομιλία</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s και %2$d ακόμη</item>
+        <item quantity="one">%s και 1 ακόμη</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Τα συνημμένα αντιγράφηκαν στην κάρτα SD</item>
+        <item quantity="one">Το συνημμένο αντιγράφηκε στην κάρτα SD</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Αποτυχία αντιγραφής συνημμένων στην κάρτα SD</item>
+        <item quantity="one">Αποτυχία αντιγραφής συνημμένου στην κάρτα SD</item>
+    </plurals>
+</resources>

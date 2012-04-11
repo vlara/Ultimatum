@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Rõõmus</item>
+        <item>Kurb</item>
+        <item>Pilgutav</item>
+        <item>Keelt näitav</item>
+        <item>Üllatunud</item>
+        <item>Suudlev</item>
+        <item>Karjuv</item>
+        <item>Lahe</item>
+        <item>Mis su jutt ka maksab?</item>
+        <item>Oih</item>
+        <item>Hämmeldunud</item>
+        <item>Ingel</item>
+        <item>Kõhklev</item>
+        <item>Nuttev</item>
+        <item>Suu lukus</item>
+        <item>Naerev</item>
+        <item>Segaduses</item>
+        <item>Süda</item>
+        <item>Vihane naerunägu</item>
+        <item>Muigav naerunägu</item>
+        <item>Pokkerinägu</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekund</item>
+        <item>2 sekundit</item>
+        <item>3 sekundit</item>
+        <item>4 sekundit</item>
+        <item>5 sekundit</item>
+        <item>6 sekundit</item>
+        <item>7 sekundit</item>
+        <item>8 sekundit</item>
+        <item>9 sekundit</item>
+        <item>10 sekundit</item>
+        <item>Muud...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Kas. seadme fondi suurusi</item>
+        <item>Ülisuur</item>
+        <item>Suur</item>
+        <item>Tavaline</item>
+        <item>Väike</item>
+        <item>Pisike</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Kõik kanalid</item>
+        <item>Minu kanal</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>GSM-tähestik</item>
+        <item>Unicode</item>
+        <item>Automaatne</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Piiratud</item>
+        <item>Hoiatus</item>
+        <item>Vaba</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Alati</item>
+        <item>Küsi</item>
+        <item>Mitte kunagi</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Sinine</item>
+        <item>Pruun</item>
+        <item>Igihaljas</item>
+        <item>Mono</item>
+        <item>Lõbusad mullid</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Must</item>
+        <item>Valge</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Alati</item>
+        <item>Ainult vaiks. rež.-s</item>
+        <item>Mitte kunagi</item>
+    </string-array>
+</resources>

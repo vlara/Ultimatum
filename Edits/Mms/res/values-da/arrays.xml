@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Glad</item>
+        <item>Trist</item>
+        <item>Blinker</item>
+        <item>Tungen sticker frem</item>
+        <item>Overrasket</item>
+        <item>Kysser</item>
+        <item>Råber</item>
+        <item>OK</item>
+        <item>Pengemund</item>
+        <item>Fod i mund</item>
+        <item>Flov</item>
+        <item>Engel</item>
+        <item>Ikke besluttet</item>
+        <item>Grædende</item>
+        <item>Mund-er-lukket</item>
+        <item>Griner</item>
+        <item>Forvirret</item>
+        <item>Hjerte</item>
+        <item>Skør</item>
+        <item>Grine smørret</item>
+        <item>Pokeransigt</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekund</item>
+        <item>2 sekunder</item>
+        <item>3 sekunder</item>
+        <item>4 sekunder</item>
+        <item>5 sekunder</item>
+        <item>6 sekunder</item>
+        <item>7 sekunder</item>
+        <item>8 sekunder</item>
+        <item>9 sekunder</item>
+        <item>10 sekunder</item>
+        <item>Andet...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Brug enheds skriftstr.</item>
+        <item>Meget stor</item>
+        <item>Stor</item>
+        <item>Normal</item>
+        <item>Lille</item>
+        <item>Meget lille</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Alle kanaler</item>
+        <item>Min kanal</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>GSM-alfabet</item>
+        <item>Unicode</item>
+        <item>Automatisk</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Begrænset</item>
+        <item>Advarsel</item>
+        <item>Ledig</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Altid</item>
+        <item>Spørg</item>
+        <item>Aldrig</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Blå</item>
+        <item>Brun</item>
+        <item>Evergreen</item>
+        <item>Mono</item>
+        <item>Joypop</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Sort</item>
+        <item>Hvid</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Altid</item>
+        <item>Kun lydløs tilstand</item>
+        <item>Aldrig</item>
+    </string-array>
+</resources>

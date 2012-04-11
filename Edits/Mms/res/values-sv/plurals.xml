@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sekunder</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s sekunder</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s resultat för %2$s</item>
+        <item quantity="one">%1$s resultat för %2$s</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d konversationer</item>
+        <item quantity="one">%d konversation</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s och %2$d mer</item>
+        <item quantity="one">%s och 1 till</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Bilagor kopierades till SD-kortet</item>
+        <item quantity="one">Bilagan har kopierats till SD-kort</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Misslyckades att kopiera bilagor till SD-kortet</item>
+        <item quantity="one">Misslyckades att kopiera bilaga till SD-kort</item>
+    </plurals>
+</resources>

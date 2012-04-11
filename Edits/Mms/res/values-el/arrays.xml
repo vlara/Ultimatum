@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Χαρούμενο</item>
+        <item>Λυπημένο</item>
+        <item>Νεύμα</item>
+        <item>Με τη γλώσσα έξω</item>
+        <item>Έκπληκτος</item>
+        <item>Φιλιά</item>
+        <item>Κραυγή</item>
+        <item>Τέλεια</item>
+        <item>Φραγκάτος</item>
+        <item>Απερίσκεπτος</item>
+        <item>Αμήχανος</item>
+        <item>Άγγελος</item>
+        <item>Αναποφάσιστος</item>
+        <item>Κλαμένος</item>
+        <item>Σφραγισμένα χείλη</item>
+        <item>Γελαστός</item>
+        <item>Σύγχυση</item>
+        <item>Καρδιά</item>
+        <item>Τρελό</item>
+        <item>Μειδίαμα</item>
+        <item>Ανέκφραστος</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 δευτερόλεπτο</item>
+        <item>2 δευτερόλεπτα</item>
+        <item>3 δευτερόλεπτα</item>
+        <item>4 δευτερόλεπτα</item>
+        <item>5 δευτερόλεπτα</item>
+        <item>6 δευτερόλεπτα</item>
+        <item>7 δευτερόλεπτα</item>
+        <item>8 δευτερόλεπτα</item>
+        <item>9 δευτερόλεπτα</item>
+        <item>10 δευτερόλεπτα</item>
+        <item>Άλλο...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Χρήση γραμ/σειράς συσκ.</item>
+        <item>Τεράστιο</item>
+        <item>Μεγάλο</item>
+        <item>Κανονικό</item>
+        <item>Μικρό</item>
+        <item>Πολύ μικρό</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Όλα τα κανάλια</item>
+        <item>Το κανάλι μου</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>Αλφάβητο GSM</item>
+        <item>Unicode</item>
+        <item>Αυτόματα</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Περιορισμός</item>
+        <item>Προειδοποίηση</item>
+        <item>Ελεύθερο</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Πάντα</item>
+        <item>Ερώτηση</item>
+        <item>Ποτέ</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Μπλε</item>
+        <item>Καφέ</item>
+        <item>Evergreen</item>
+        <item>Mono</item>
+        <item>Joypop</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Mαύρο</item>
+        <item>Λευκό</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Πάντα</item>
+        <item>Μόνο σε αθόρ. λειτ.</item>
+        <item>Ποτέ</item>
+    </string-array>
+</resources>

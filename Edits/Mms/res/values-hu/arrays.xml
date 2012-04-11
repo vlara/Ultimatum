@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Boldog</item>
+        <item>Szomorú</item>
+        <item>Kacsintás</item>
+        <item>Nyelvöltés</item>
+        <item>Meglepődés</item>
+        <item>Csók</item>
+        <item>Kiabálás</item>
+        <item>Király</item>
+        <item>Egérszáj</item>
+        <item>Csacskaság</item>
+        <item>Feszengés</item>
+        <item>Angyal</item>
+        <item>Határozatlanság</item>
+        <item>Sírás</item>
+        <item>Lakat a szájon</item>
+        <item>Nevetés</item>
+        <item>Zavarban van</item>
+        <item>Szív</item>
+        <item>Bolond</item>
+        <item>Önelégült mosoly</item>
+        <item>Pókerarc</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 másodperc</item>
+        <item>2 másodperc</item>
+        <item>3 másodperc</item>
+        <item>4 másodperc</item>
+        <item>5 másodperc</item>
+        <item>6 másodperc</item>
+        <item>7 másodperc</item>
+        <item>8 másodperc</item>
+        <item>9 másodperc</item>
+        <item>10 másodperc</item>
+        <item>Egyebek...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Eszközbetűméret beállítása</item>
+        <item>Nagyon nagy</item>
+        <item>Nagy</item>
+        <item>Normál</item>
+        <item>Kicsi</item>
+        <item>Nagyon kicsi</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Összes csatorna</item>
+        <item>Saját csatorna</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>Ékezet nélkül</item>
+        <item>Ékezetes</item>
+        <item>Automatikus</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Korlátozva</item>
+        <item>Figyelmeztetés</item>
+        <item>Szabad</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Mindig</item>
+        <item>Kérdés</item>
+        <item>Soha</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Kék</item>
+        <item>Barna</item>
+        <item>Örökzöld</item>
+        <item>Szürke</item>
+        <item>Joypop</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Fekete</item>
+        <item>Fehér</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Mindig</item>
+        <item>Csak Csendes módban</item>
+        <item>Soha</item>
+    </string-array>
+</resources>

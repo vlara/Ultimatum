@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/map_main" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <EditText android:id="@id/location" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/hint_where" android:singleLine="true" android:capitalize="sentences" android:layout_weight="1.0" android:imeOptions="actionDone|flagNoEnterAction" />
+        <Button android:ellipsize="marquee" android:id="@id/search" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/search_map" android:singleLine="true" />
+    </LinearLayout>
+    <com.google.android.maps.MapView android:enabled="true" android:id="@id/mapview_select" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:apiKey="0e2-_R-TfJvIB8nm1t1KMmwf6TNLj_ZrpJ2H5TQ" />
+</LinearLayout>

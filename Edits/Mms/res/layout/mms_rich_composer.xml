@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/rich_composer" android:addStatesFromChildren="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText android:textSize="18.659973sp" android:textColor="@touchwiz:color/tw_color028" android:gravity="top" android:id="@id/edit_text_top" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" android:inputType="textCapSentences|textAutoCorrect|textMultiLine" android:imeOptions="actionSend|flagNoEnterAction" />
+    <RelativeLayout android:gravity="left" android:id="@id/media_view" android:visibility="gone" android:addStatesFromChildren="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/media_thumbnail" android:background="@drawable/media_select" android:padding="1.0dip" android:focusable="true" android:focusableInTouchMode="true" android:clickable="true" android:layout_width="73.29999dip" android:layout_height="73.29999dip" android:scaleType="fitXY" />
+        <ImageView android:id="@id/media_play_button" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginBottom="2.0dip" android:layout_alignLeft="@id/media_thumbnail" android:layout_alignBottom="@id/media_thumbnail" />
+        <View android:id="@id/dummy_view" android:clickable="true" android:layout_width="wrap_content" android:layout_height="73.29999dip" android:layout_weight="1.0" android:layout_toRightOf="@id/media_thumbnail" />
+    </RelativeLayout>
+    <EditText android:textSize="18.659973sp" android:textColor="@touchwiz:color/tw_color028" android:gravity="top" android:id="@id/edit_text_bottom" android:background="@android:color/transparent" android:focusableInTouchMode="true" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.5dip" android:layout_weight="1.0" android:inputType="textCapSentences|textAutoCorrect|textMultiLine" android:imeOptions="actionSend|flagNoEnterAction" />
+    <LinearLayout android:gravity="left" android:orientation="horizontal" android:id="@id/audio_info" android:background="@drawable/media_select" android:focusable="true" android:focusableInTouchMode="true" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/audio_icon" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/ic_launcher_musicplayer_2_small" />
+        <TextView android:textColor="@touchwiz:color/tw_color028" android:gravity="center_vertical" android:id="@id/audio_name" android:layout_width="wrap_content" android:layout_height="fill_parent" android:singleLine="true" />
+    </LinearLayout>
+    <RelativeLayout android:gravity="center_horizontal" android:layout_gravity="center" android:id="@id/page_divider" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_width="fill_parent" android:layout_height="10.0dip" android:src="@drawable/shape_dotted_line" android:layout_weight="1.0" android:layout_toLeftOf="@id/position_text" android:layout_centerVertical="true" />
+        <TextView android:textColor="@color/listitem_text_press_ginger_color" android:id="@id/position_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+</LinearLayout>

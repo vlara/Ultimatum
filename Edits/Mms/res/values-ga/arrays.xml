@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Sona Sásta</item>
+        <item>Brón orm</item>
+        <item>Ag caochadh súile</item>
+        <item>Teanga sáite amach</item>
+        <item>Ionadh</item>
+        <item>Ag pógadh</item>
+        <item>Ag béicíl</item>
+        <item>Fionnuar</item>
+        <item>Cailleach an airgid</item>
+        <item>Botún béil</item>
+        <item>Náirithe</item>
+        <item>Aingeal</item>
+        <item>Neamhshocraithe</item>
+        <item>Ag caoineadh</item>
+        <item>Binn béal ina thost</item>
+        <item>Ag gáire</item>
+        <item>Trína chéile</item>
+        <item>Croí</item>
+        <item>Gealtach</item>
+        <item>Míog</item>
+        <item>Aghaidh pócair</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 soicind</item>
+        <item>2 shoicind</item>
+        <item>3 shoicind</item>
+        <item>4 shoicind</item>
+        <item>5 shoicind</item>
+        <item>6 soicind</item>
+        <item>7 shoicind</item>
+        <item>8 soicind</item>
+        <item>9 soicind</item>
+        <item>10 soicind</item>
+        <item>Eile...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Úsáid méideanna cló gléis</item>
+        <item>Ollmhór</item>
+        <item>Mór</item>
+        <item>Normálta</item>
+        <item>Beag</item>
+        <item>Bídeach</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Gach caineál</item>
+        <item>Mo Chainéal</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>Aibítir GSM</item>
+        <item>Unicode</item>
+        <item>Uathoibríoch</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Srianta</item>
+        <item>Rabhadh</item>
+        <item>Saor in aisce</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>I gcónaí</item>
+        <item>Léid</item>
+        <item>Choíche</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Gorm</item>
+        <item>Donn</item>
+        <item>Síorghlas</item>
+        <item>Mona</item>
+        <item>Popspraoi</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Dubh</item>
+        <item>Bán</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>I gcónaí</item>
+        <item>I mód Tostach amháin</item>
+        <item>Choíche</item>
+    </string-array>
+</resources>

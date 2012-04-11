@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:color="@color/listitem_text_press_ginger_color" />
+    <item android:color="@touchwiz:color/tw_color001" />
+</selector>
