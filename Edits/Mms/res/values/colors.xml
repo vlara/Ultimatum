@@ -11,9 +11,9 @@
     <color name="text_color_failed">#ffdb3400</color>
     <color name="text_color_failed_focus">#ff000000</color>
     <color name="conversation_item_failed_color">#ffdb3400</color>
-    <color name="conversation_item_date_color">#ffa2a2a2</color>
+    <color name="conversation_item_date_color">#ff6e6e6e</color>
     <color name="conversation_item_draft_color">#ffdb3400</color>
-    <color name="conversation_item_subject_color">#ff7abee1</color>
+    <color name="conversation_item_subject_color">#ff2b7baf</color>
     <color name="listitem_date_color">#ff646464</color>
     <color name="listitem_sending_color">#ff5b5b5b</color>
     <color name="listitem_failed_color">#ff505050</color>
@@ -22,5 +22,5 @@
     <color name="received_mms_indicator_color">#ff9f9158</color>
     <color name="send_mms_indicator_color">#ff678499</color>
     <color name="recipient_label_color">#ffa2a2a2</color>
-    <color name="seperator_color">#ffb4b4b4</color>
+    <color name="seperator_color">#ff484848</color>
 </resources>
