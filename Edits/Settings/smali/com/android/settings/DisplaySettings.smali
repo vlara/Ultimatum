@@ -2012,8 +2012,6 @@
 
     move-object/from16 v21, v0
 
-    invoke-virtual/range {v20 .. v21}, Landroid/preference/PreferenceScreen;->removePreference(Landroid/preference/Preference;)Z
-
     goto/16 :goto_363
 .end method
 
