@@ -44,6 +44,7 @@
 .field private mHideAmPm:Landroid/preference/Preference;
 
 
+
 # direct methods
 .method public constructor <init>()V
     .locals 1
@@ -58,65 +59,6 @@
     invoke-direct {v0, p0}, Lcom/android/settings/DateTimeSettings$3;-><init>(Lcom/android/settings/DateTimeSettings;)V
 
     iput-object v0, p0, Lcom/android/settings/DateTimeSettings;->mIntentReceiver:Landroid/content/BroadcastReceiver;
-
-    const-string v6, "hide_time"
-
-    invoke-virtual {p0, v6}, Lcom/android/settings/DateTimeSettings;->findPreference(Ljava/lang/CharSequence;)Landroid/preference/Preference;
-
-    move-result-object v6
-
-    check-cast v6, Landroid/preference/Preference;
-
-    iput-object v6, p0, Lcom/android/settings/DateTimeSettings;->mHideTime:Landroid/preference/Preference;
-        
-    const-string v6, "hide_ampm"
-
-    invoke-virtual {p0, v6}, Lcom/android/settings/DateTimeSettings;->findPreference(Ljava/lang/CharSequence;)Landroid/preference/Preference;
-
-    move-result-object v6
-
-    check-cast v6, Landroid/preference/Preference;
-
-    iput-object v6, p0, Lcom/android/settings/DateTimeSettings;->mHideAmPm:Landroid/preference/Preference;
-
-    iget-object v0, p0, Lcom/android/settings/DateTimeSettings;->mHideTime:Landroid/preference/Preference;
-
-    check-cast v0, Landroid/preference/CheckBoxPreference;
-
-    invoke-virtual {v0}, Landroid/preference/CheckBoxPreference;->isChecked()Z
-
-    move-result v0
-
-    if-eqz v0, :no_disablebtns
-        
-    const/4 v0, 0x0
-        
-    iget-object v6, p0, Lcom/android/settings/DateTimeSettings;->mHideAmPm:Landroid/preference/Preference;
-
-    invoke-virtual {v6, v0}, Landroid/preference/Preference;->setEnabled(Z)V
-        
-    iget-object v6, p0, Lcom/android/settings/DateTimeSettings;->mTime24Pref:Landroid/preference/Preference;
-
-    invoke-virtual {v6, v0}, Landroid/preference/Preference;->setEnabled(Z)V
-        
-    :no_disablebtns 
-    iget-object v0, p0, Lcom/android/settings/DateTimeSettings;->mTime24Pref:Landroid/preference/Preference;
-
-    check-cast v0, Landroid/preference/CheckBoxPreference;
-
-    invoke-virtual {v0}, Landroid/preference/CheckBoxPreference;->isChecked()Z
-
-    move-result v0
-        
-    if-eqz v0, :no_disableampm
-
-    const/4 v0, 0x0
-        
-    iget-object v6, p0, Lcom/android/settings/DateTimeSettings;->mHideAmPm:Landroid/preference/Preference;
-
-    invoke-virtual {v6, v0}, Landroid/preference/Preference;->setEnabled(Z)V
-        
-    :no_disableampm
 
     return-void
 .end method
@@ -697,6 +639,65 @@
 
     :goto_d5
     invoke-virtual {v6, v7}, Landroid/preference/Preference;->setEnabled(Z)V
+
+    const-string v6, "hide_time"
+
+    invoke-virtual {p0, v6}, Lcom/android/settings/DateTimeSettings;->findPreference(Ljava/lang/CharSequence;)Landroid/preference/Preference;
+
+    move-result-object v6
+
+    check-cast v6, Landroid/preference/Preference;
+
+    iput-object v6, p0, Lcom/android/settings/DateTimeSettings;->mHideTime:Landroid/preference/Preference;
+        
+    const-string v6, "hide_ampm"
+
+    invoke-virtual {p0, v6}, Lcom/android/settings/DateTimeSettings;->findPreference(Ljava/lang/CharSequence;)Landroid/preference/Preference;
+
+    move-result-object v6
+
+    check-cast v6, Landroid/preference/Preference;
+
+    iput-object v6, p0, Lcom/android/settings/DateTimeSettings;->mHideAmPm:Landroid/preference/Preference;
+
+    iget-object v0, p0, Lcom/android/settings/DateTimeSettings;->mHideTime:Landroid/preference/Preference;
+
+    check-cast v0, Landroid/preference/CheckBoxPreference;
+
+    invoke-virtual {v0}, Landroid/preference/CheckBoxPreference;->isChecked()Z
+
+    move-result v0
+
+    if-eqz v0, :no_disablebtns
+        
+    const/4 v0, 0x0
+        
+    iget-object v6, p0, Lcom/android/settings/DateTimeSettings;->mHideAmPm:Landroid/preference/Preference;
+
+    invoke-virtual {v6, v0}, Landroid/preference/Preference;->setEnabled(Z)V
+        
+    iget-object v6, p0, Lcom/android/settings/DateTimeSettings;->mTime24Pref:Landroid/preference/Preference;
+
+    invoke-virtual {v6, v0}, Landroid/preference/Preference;->setEnabled(Z)V
+        
+    :no_disablebtns 
+    iget-object v0, p0, Lcom/android/settings/DateTimeSettings;->mTime24Pref:Landroid/preference/Preference;
+
+    check-cast v0, Landroid/preference/CheckBoxPreference;
+
+    invoke-virtual {v0}, Landroid/preference/CheckBoxPreference;->isChecked()Z
+
+    move-result v0
+        
+    if-eqz v0, :no_disableampm
+
+    const/4 v0, 0x0
+        
+    iget-object v6, p0, Lcom/android/settings/DateTimeSettings;->mHideAmPm:Landroid/preference/Preference;
+
+    invoke-virtual {v6, v0}, Landroid/preference/Preference;->setEnabled(Z)V
+        
+    :no_disableampm
 
     .line 209
     return-void
@@ -1380,7 +1381,7 @@
 
     iget-object v0, p0, Lcom/android/settings/DateTimeSettings;->mHideTime:Landroid/preference/Preference;
 
-    if-ne p2, v0, :cond_9
+    if-ne p2, v0, :goto_9
         
     iget-object v0, p0, Lcom/android/settings/DateTimeSettings;->mHideTime:Landroid/preference/Preference;
 
@@ -1421,6 +1422,7 @@
     invoke-virtual {v1, v2}, Landroid/preference/Preference;->setEnabled(Z)V    
 
     goto :cond_updatetime
+    
 .end method
 
 .method public onResume()V
