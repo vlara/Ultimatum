@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Messaging</string>
+    <string name="app_label">AOSP Messaging</string>
     <string name="new_message">New message</string>
     <string name="menu_call_back">Call %s</string>
     <string name="menu_send_email">Send email to %s</string>
