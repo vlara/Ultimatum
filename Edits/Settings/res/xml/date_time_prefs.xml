@@ -8,4 +8,6 @@
     <PreferenceScreen android:title="@string/date_time_set_timezone" android:key="timezone" android:summary="GMT-8:00" android:fragment="com.android.settings.ZonePicker" />
     <CheckBoxPreference android:title="@string/date_time_24hour" android:key="24 hour" android:summaryOn="@string/date_time_24_hour_sample" android:summaryOff="@string/date_time_12_hour_sample" />
     <ListPreference android:title="@string/date_time_date_format" android:key="date_format" android:summary="mm/dd/yyyy" />
+    <CheckBoxPreference android:title="@string/disable_time" android:key="hide_time" android:summary="@string/disable_time_text" />
+    <CheckBoxPreference android:title="@string/disable_ampm" android:key="hide_ampm" android:summary="@string/disable_ampm_text" />
 </PreferenceScreen>

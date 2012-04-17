@@ -2193,4 +2193,8 @@ Do you want to continue?"</string>
     <string name="mwlan_permission_summary_2">Enable the secure connection for the service requiring payments</string>
     <string name="mwlan_allowed_2">You can use services requiring the Wi-Fi secure connection</string>
     <string name="mwlan_denied_2">You should check the option to use services requiring the Wi-Fi secure connection</string>
+    <string name="disable_time">Hide Time</string>
+    <string name="disable_time_text">Remove time from status bar</string>
+    <string name="disable_ampm">Hide AM/PM</string>
+    <string name="disable_ampm_text">Remove AM/PM from time in status bar</string>
 </resources>
