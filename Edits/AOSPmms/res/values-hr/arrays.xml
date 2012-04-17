@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Sretan</item>
+        <item>Tužan</item>
+        <item>Namigujem</item>
+        <item>Plazim ti jezik</item>
+        <item>Iznenađen</item>
+        <item>Šaljem pusu</item>
+        <item>Vikanje</item>
+        <item>Cool</item>
+        <item>Pohlepan</item>
+        <item>Ispeci pa reci</item>
+        <item>Neugodno mi je</item>
+        <item>Anđeo</item>
+        <item>Neodlučan</item>
+        <item>Plačem</item>
+        <item>Strogo povjerljivo</item>
+        <item>Smijem se</item>
+        <item>Zbunjen</item>
+        <item>Srce</item>
+        <item>Ljutnja</item>
+        <item>Samozadovoljni podsmjeh</item>
+        <item>Pokeraš</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunda</item>
+        <item>2 sekunde</item>
+        <item>3 sekunde</item>
+        <item>4 sekunde</item>
+        <item>5 sekundi</item>
+        <item>6 sekundi</item>
+        <item>7 sekundi</item>
+        <item>8 sekundi</item>
+        <item>9 sekundi</item>
+        <item>10 sekundi</item>
+        <item>Ostalo</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Uvijek</item>
+        <item>Samo ako je bešumno</item>
+        <item>Nikad</item>
+    </string-array>
+</resources>

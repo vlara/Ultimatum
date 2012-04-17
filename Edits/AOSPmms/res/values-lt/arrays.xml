@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Laimingas</item>
+        <item>Liūdnas</item>
+        <item>Mirksintis</item>
+        <item>Iškišęs liežuvį</item>
+        <item>Nustebęs</item>
+        <item>Bučiuojantis</item>
+        <item>Šaukiantis</item>
+        <item>Kietas</item>
+        <item>Pinigai vietoj burnos</item>
+        <item>Pėda burnoje</item>
+        <item>Susigėdęs</item>
+        <item>Angelas</item>
+        <item>Neapsisprendęs</item>
+        <item>Verkiantis</item>
+        <item>Niekam nepasakosiu</item>
+        <item>Juokiasi</item>
+        <item>Sumišęs</item>
+        <item>Heart</item>
+        <item>Mad</item>
+        <item>Smirk</item>
+        <item>Nieko nesakantis veidas</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sek.</item>
+        <item>2 sek.</item>
+        <item>3 sek.</item>
+        <item>4 sek.</item>
+        <item>5 sek.</item>
+        <item>6 sek.</item>
+        <item>7 sek.</item>
+        <item>8 sek.</item>
+        <item>9 sek.</item>
+        <item>10 sek.</item>
+        <item>Kitas</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Visada</item>
+        <item>Tik kai veikia tyliai</item>
+        <item>Niekada</item>
+    </string-array>
+</resources>

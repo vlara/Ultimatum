@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Mosoly</item>
+        <item>Szomorú</item>
+        <item>Kacsintás</item>
+        <item>Nyelvnyújtás</item>
+        <item>Meglepődött</item>
+        <item>Csók</item>
+        <item>Kiabálás</item>
+        <item>Laza</item>
+        <item>Pénz beszél</item>
+        <item>Ha hallgattam volna...</item>
+        <item>Zavarban</item>
+        <item>Angyal</item>
+        <item>Határozatlan</item>
+        <item>Sírás</item>
+        <item>Szót se szólok</item>
+        <item>Nevetés</item>
+        <item>Összezavarodva</item>
+        <item>Szív</item>
+        <item>Mérges</item>
+        <item>Kacsintás</item>
+        <item>Pókerarc</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 másodperc</item>
+        <item>2 másodperc</item>
+        <item>3 másodperc</item>
+        <item>4 másodperc</item>
+        <item>5 másodperc</item>
+        <item>6 másodperc</item>
+        <item>7 másodperc</item>
+        <item>8 másodperc</item>
+        <item>9 másodperc</item>
+        <item>10 másodperc</item>
+        <item>Egyéb</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Mindig</item>
+        <item>Csak néma üzemmódban</item>
+        <item>Soha</item>
+    </string-array>
+</resources>

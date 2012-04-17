@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-p</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>खुश</item>
+        <item>दु:खी</item>
+        <item>पलक झपकाना</item>
+        <item>जीभ निकालना</item>
+        <item>आश्‍चर्यचकित</item>
+        <item>चूमना</item>
+        <item>चिल्‍लाना</item>
+        <item>बिंदास</item>
+        <item>धनलोलुप</item>
+        <item>कहकर पछताना</item>
+        <item>शर्मिंदा</item>
+        <item>एंजेल</item>
+        <item>अनिश्‍चित</item>
+        <item>रोना</item>
+        <item>मुंह बंद है</item>
+        <item>हंसना</item>
+        <item>भ्रमित</item>
+        <item>दिल</item>
+        <item>पागल</item>
+        <item>बनावटी हंसी</item>
+        <item>पोकर चेहरा</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 सेकंड</item>
+        <item>2 सेकंड</item>
+        <item>3 सेकंड</item>
+        <item>4 सेकंड</item>
+        <item>5 सेकंड</item>
+        <item>6 सेकंड</item>
+        <item>7 सेकंड</item>
+        <item>8 सेकंड</item>
+        <item>9 सेकंड</item>
+        <item>10 सेकंड</item>
+        <item>अन्य</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>हमेशा</item>
+        <item>केवल मौन होने पर</item>
+        <item>कभी नहीं</item>
+    </string-array>
+</resources>

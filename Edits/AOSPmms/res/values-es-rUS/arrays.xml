@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Feliz</item>
+        <item>Triste</item>
+        <item>Guiñando un ojo</item>
+        <item>Lengua afuera</item>
+        <item>Sorprendido</item>
+        <item>Besando</item>
+        <item>Gritando</item>
+        <item>En la onda</item>
+        <item>Dinero en boca</item>
+        <item>Metida de pata</item>
+        <item>Avergonzado</item>
+        <item>Ángel</item>
+        <item>Indeciso</item>
+        <item>Llorando</item>
+        <item>Boca cerrada</item>
+        <item>Riendo</item>
+        <item>Confundido</item>
+        <item>Corazón</item>
+        <item>Furioso</item>
+        <item>Sonrisita</item>
+        <item>Cara de póquer</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+        <item>10 segundos</item>
+        <item>Otros</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Siempre</item>
+        <item>Sólo cuando esté en silencio</item>
+        <item>Nunca</item>
+    </string-array>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Masaya</item>
+        <item>Malungkot</item>
+        <item>Winking</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Sumisigaw</item>
+        <item>Cool</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Angel</item>
+        <item>Hindi makapagpasya</item>
+        <item>Crying</item>
+        <item>Naka-seal ang mga labi</item>
+        <item>Laughing</item>
+        <item>Confused</item>
+        <item>Heart</item>
+        <item>Mad</item>
+        <item>Smirk</item>
+        <item>Poker face</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 segundo</item>
+        <item>2 segundo</item>
+        <item>3 segundo</item>
+        <item>4 segundo</item>
+        <item>5 segundo</item>
+        <item>6 segundo</item>
+        <item>7 segundo</item>
+        <item>8 segundo</item>
+        <item>9 segundo</item>
+        <item>10 segundo</item>
+        <item>Iba pa</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Palagi</item>
+        <item>Kapag tahimik lang</item>
+        <item>Hindi kailanman</item>
+    </string-array>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-Ç</item>
+        <item>=-D</item>
+        <item>:-*</item>
+        <item>:D</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>D:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Mutlu</item>
+        <item>Üzgün</item>
+        <item>Göz Kırpma</item>
+        <item>Dil çıkarmış</item>
+        <item>Şaşırmış</item>
+        <item>Öpücük</item>
+        <item>Bağırma</item>
+        <item>Sakin</item>
+        <item>Para ağızlı</item>
+        <item>Ayak ağızda</item>
+        <item>Mahçup</item>
+        <item>Melek</item>
+        <item>Kararsız</item>
+        <item>Ağlama</item>
+        <item>Dudakları mühürlü</item>
+        <item>Gülme</item>
+        <item>Sersemlemiş</item>
+        <item>Kalp</item>
+        <item>Kızgın</item>
+        <item>Sırıtma</item>
+        <item>Poker surat</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 saniye</item>
+        <item>2 saniye</item>
+        <item>3 saniye</item>
+        <item>4 saniye</item>
+        <item>5 saniye</item>
+        <item>6 saniye</item>
+        <item>7 saniye</item>
+        <item>8 saniye</item>
+        <item>9 saniye</item>
+        <item>10 saniye</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Her zaman</item>
+        <item>Yalnızca sessizken</item>
+        <item>Hiçbir zaman</item>
+    </string-array>
+</resources>
