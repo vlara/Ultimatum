@@ -7178,7 +7178,7 @@
         
     move-result v2
         
-    if-eqz v2, :goto_0
+    if-eqz v2, :goto_e
         
     const/16 v0, 0x8
 
