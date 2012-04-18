@@ -333,7 +333,6 @@
     invoke-virtual {v0, v7}, Landroid/preference/PreferenceCategory;->setTitle(I)V
 
     .line 255
-    invoke-virtual {v4, v0}, Landroid/preference/PreferenceScreen;->addPreference(Landroid/preference/Preference;)Z
 
     .line 257
     new-instance v7, Landroid/preference/CheckBoxPreference;
@@ -398,8 +397,6 @@
     .line 282
     iget-object v7, p0, Lcom/android/settings/SecuritySettings;->ChangingSIMAlert:Landroid/preference/CheckBoxPreference;
 
-    invoke-virtual {v0, v7}, Landroid/preference/PreferenceCategory;->addPreference(Landroid/preference/Preference;)Z
-
     .line 284
     invoke-static {}, Landroid/telephony/TelephonyManager;->getDefault()Landroid/telephony/TelephonyManager;
 
@@ -456,12 +453,9 @@
     invoke-virtual {v1, v7}, Landroid/preference/Preference;->setOnPreferenceClickListener(Landroid/preference/Preference$OnPreferenceClickListener;)V
 
     .line 301
-    invoke-virtual {v0, v1}, Landroid/preference/PreferenceCategory;->addPreference(Landroid/preference/Preference;)Z
 
     .line 302
     const-string v7, "SIMAlert"
-
-    invoke-virtual {v1, v7}, Landroid/preference/Preference;->setDependency(Ljava/lang/String;)V
 
     .line 304
     new-instance v7, Landroid/preference/CheckBoxPreference;
@@ -518,8 +512,6 @@
 
     .line 334
     iget-object v7, p0, Lcom/android/settings/SecuritySettings;->RemoteControls:Landroid/preference/CheckBoxPreference;
-
-    invoke-virtual {v0, v7}, Landroid/preference/PreferenceCategory;->addPreference(Landroid/preference/Preference;)Z
 
     .line 342
     const v7, 0x7f05002f
