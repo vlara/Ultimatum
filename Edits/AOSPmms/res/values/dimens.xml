@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="message_item_avatar_on_right_text_indent">50.0dip</dimen>
+    <dimen name="message_item_text_padding_left_right">12.0dip</dimen>
+    <dimen name="message_item_text_padding_top">5.0dip</dimen>
+    <dimen name="avatar_width_height">64.0dip</dimen>
+    <dimen name="input_text_height">48.0dip</dimen>
+    <dimen name="input_text_height_adjusted">8.0dip</dimen>
+</resources>

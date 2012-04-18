@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>행복해</item>
+        <item>슬퍼요</item>
+        <item>윙크</item>
+        <item>메롱</item>
+        <item>오옷</item>
+        <item>키스</item>
+        <item>버럭</item>
+        <item>멋지네</item>
+        <item>돈돈돈</item>
+        <item>실수했네</item>
+        <item>당황</item>
+        <item>천사</item>
+        <item>흠...</item>
+        <item>엉엉엉</item>
+        <item>비밀로 할게</item>
+        <item>하하하</item>
+        <item>어리둥절</item>
+        <item>하트</item>
+        <item>미쳐</item>
+        <item>능글맞은 웃음</item>
+        <item>무표정한 얼굴</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1초</item>
+        <item>2초</item>
+        <item>3초</item>
+        <item>4초</item>
+        <item>5초</item>
+        <item>6초</item>
+        <item>7초</item>
+        <item>8초</item>
+        <item>9초</item>
+        <item>10초</item>
+        <item>기타</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>항상</item>
+        <item>무음 시에만</item>
+        <item>안함</item>
+    </string-array>
+</resources>

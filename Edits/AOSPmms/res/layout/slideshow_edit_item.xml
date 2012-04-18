@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.concentriclivers.mms.com.android.mms.ui.SlideListItemView android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="?android:listPreferredItemHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/image_preview" android:paddingLeft="2.0dip" android:layout_width="60.0dip" android:layout_height="60.0dip" android:src="@drawable/ic_attach_slideshow_holo_light" android:scaleType="fitCenter" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textStyle="bold" android:id="@id/slide_number_text" android:paddingLeft="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="?android:textColorSecondary" android:ellipsize="marquee" android:id="@id/text_preview" android:paddingLeft="5.0dip" android:paddingRight="5.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_weight="0.4" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="?android:textColorSecondary" android:ellipsize="marquee" android:id="@id/attachment_name" android:paddingLeft="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_weight="0.3" />
+            <ImageView android:id="@id/attachment_icon" android:paddingLeft="5.0dip" android:paddingTop="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="0.0" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="?android:textColorSecondary" android:id="@id/duration_text" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_weight="0.0" android:layout_alignParentRight="true" />
+        </LinearLayout>
+    </LinearLayout>
+</com.concentriclivers.mms.com.android.mms.ui.SlideListItemView>

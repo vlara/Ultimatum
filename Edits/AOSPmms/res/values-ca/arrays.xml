@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Feliç</item>
+        <item>Trist</item>
+        <item>"Picada d'ullet"</item>
+        <item>Traient la llengua</item>
+        <item>Sorprès</item>
+        <item>Fent un petó</item>
+        <item>Cridant</item>
+        <item>Enrotllat</item>
+        <item>Diners a la boca</item>
+        <item>Peu a la boca</item>
+        <item>Avergonyit</item>
+        <item>Àngel</item>
+        <item>Indecís</item>
+        <item>Plorant</item>
+        <item>Sóc una tomba</item>
+        <item>Rient</item>
+        <item>Confós</item>
+        <item>Cor</item>
+        <item>Molt empipat</item>
+        <item>Somriure irònic</item>
+        <item>Cara de sorpresa</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 segon</item>
+        <item>2 segons</item>
+        <item>3 segons</item>
+        <item>4 segons</item>
+        <item>5 segons</item>
+        <item>6 segons</item>
+        <item>7 segons</item>
+        <item>8 segons</item>
+        <item>9 segons</item>
+        <item>10 segons</item>
+        <item>Altres</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Sempre</item>
+        <item>Només quan està en silenci</item>
+        <item>Mai</item>
+    </string-array>
+</resources>

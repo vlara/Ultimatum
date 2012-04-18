@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-|</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Gembira</item>
+        <item>Sedih</item>
+        <item>Mengenyit</item>
+        <item>Lidah terjelir</item>
+        <item>Terkejut</item>
+        <item>Bercium</item>
+        <item>Menjerit</item>
+        <item>Segak</item>
+        <item>Mulut duit</item>
+        <item>Kaki dalam mulut</item>
+        <item>Malu</item>
+        <item>Bidadari</item>
+        <item>Tidak pasti</item>
+        <item>Menangis</item>
+        <item>Bibir terkunci</item>
+        <item>Tertawa</item>
+        <item>Keliru</item>
+        <item>Hati</item>
+        <item>Gila</item>
+        <item>Senyuman sinis</item>
+        <item>Muka selamba</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 saat</item>
+        <item>2 saat</item>
+        <item>3 saat</item>
+        <item>4 saat</item>
+        <item>5 saat</item>
+        <item>6 saat</item>
+        <item>7 saat</item>
+        <item>8 saat</item>
+        <item>9 saat</item>
+        <item>10 saat</item>
+        <item>Lain-lain</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Sentiasa</item>
+        <item>Apabila senyap sahaja</item>
+        <item>Jangan sekali-kali</item>
+    </string-array>
+</resources>

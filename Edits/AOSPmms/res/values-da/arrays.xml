@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Glad</item>
+        <item>Trist</item>
+        <item>Blinker</item>
+        <item>Rækker tunge</item>
+        <item>Overrasket</item>
+        <item>Kysser</item>
+        <item>Råber</item>
+        <item>Sej</item>
+        <item>Pengeglad</item>
+        <item>Forlegen</item>
+        <item>Flov</item>
+        <item>Engel</item>
+        <item>Uafklaret</item>
+        <item>Græder</item>
+        <item>Lukket med syv segl</item>
+        <item>Griner</item>
+        <item>Forvirret</item>
+        <item>Hjerte</item>
+        <item>Vred</item>
+        <item>Smørret grin</item>
+        <item>Pokerfjæs</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekund</item>
+        <item>2 sekunder</item>
+        <item>3 sekunder</item>
+        <item>4 sekunder</item>
+        <item>5 sekunder</item>
+        <item>6 sekunder</item>
+        <item>7 sekunder</item>
+        <item>8 sekunder</item>
+        <item>9 sekunder</item>
+        <item>10 sekunder</item>
+        <item>Andet</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Altid</item>
+        <item>Kun ved lydløs</item>
+        <item>Aldrig</item>
+    </string-array>
+</resources>
